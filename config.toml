@@ -1,0 +1,196 @@
+baseURL = "/"
+title = "XXI Cenáculo NCORLX"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+
+[params]
+fancyTitle = '<img width="400" height="400" src="/img/logo.png"/> <br/> XXI Cenáculo NcOrLx'  # title for frontpage, may include image
+copyright = "XXI Cenáculo NcOrLx"
+description = '3, 4 e 5 de março de 2023. Estás preparado?!'
+startbuttonText = "Inscrições"
+startbuttonLink = "#"
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/posts/'
+title = "Posts"
+
+[[params.menu.main]]
+url = '/equipa/'
+title = "Equipa"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+
+[params.bta]
+enable = true
+title = "Arcue ut vel commodo"
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+
+[params.one]
+enable = true
+title = 'Olá Caminheiros!'
+href = "/equipa"
+text = "clica aqui!"
+body = '''
+Bem-vindo a este teu espaço aberto deste novo Ciclo de Cenáculo. Aqui poderás encontrar todas as informações para que nunca fiques perdido e assim encontrares o teu trilho nesta viagem. Vários são os obstáculos que podem aparecer-te à frente, montanhas que teremos de escalar, mas nunca te esqueças que não estás sozinho. Tens muitos caminheiros a teu lado, irmãos nesta jornada e somente Juntos Moveremos Montanhas.
+
+São já duas décadas de caminho, duas décadas a fazer Cenáculo. Mais do que nunca é importante afirmares a tua voz e sem medo contribuíres para algo que une tantos caminheiros a nível nacional. Vais mesmo ficar em casa?
+
+A tua Equipa Projeto conta contigo, esperamos ver-te em breve!
+
+Canhotas EpYcas,
+'''
+
+special = false
+
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/house.jpg"
+title = 'Mapa da Colômbia'
+body = 'Os bilhetes estão comprados e as malas feitas, mas vais precisar de um mapa e algumas indicações para não te perderes no meio de tanta animação!'
+button = true
+
+[[params.two.section.link]]
+href = "#"
+text = "Imaginário"
+
+[[params.two.section.link]]
+href = "#"
+text = "Infos Adicionais"
+
+[[params.two.section]]
+img = "img/pic02.jpg"
+title = 'Biblioteca da Casa Madrigal'
+body = 'Aqui podes aprender e descobrir novos poderes, com a ajuda de alguns primos mais velhos.'
+button = true
+
+[[params.two.section.link]]
+href = "#"
+text = "Carta de Cenáculo"
+
+[[params.two.section.link]]
+href = "#"
+text = "Oradores"
+
+[[params.two.section]]
+img = "img/pic03.jpg"
+title = 'Viagem até à Colômbia'
+body = 'Preparámos algumas atividades para ti, para estares pronto/a para o dia D. Será que tens o que é preciso?'
+button = true
+
+[[params.two.section.link]]
+href = "#"
+text = "Pegadas"
+
+[[params.two.section.link]]
+href = "#"
+text = "Angariações de Fundo"
+
+[params.three]
+enable = true
+title = 'Já conheces a EP?'
+body = '''
+Todos nos conhecemos de vista, mas dificilmente sabemos os poderes de cada um.
+Aqui podes conhecer um bocadinho de cada membro da EP. No cenáculo, esperamos
+conhecer-te a ti!
+'''
+
+[[params.three.feature]]
+icon = "fa-paper-plane-o"
+title = "Coordenação"
+body = "Os que mandam (e escolheram uma fantástica equipa de comunicação)."
+href = "coordenacao"
+text = "Sabe mais"
+
+
+[[params.three.feature]]
+icon = "fa-laptop"
+title = "Observadores"
+body = "Os que confirmam que não é preciso chamar ambulâncias."
+href = "observadores"
+text = "Sabe mais"
+
+[[params.three.feature]]
+icon = "fa-code"
+title = "Fórum"
+body = "Os que decidem o que se discute."
+href = "forum"
+text = "Sabe mais"
+
+[[params.three.feature]]
+icon = "fa-headphones"
+title = "Logística"
+body = "Os que escolheram o sítio onde vais dormir."
+href = "logistica"
+text = "Sabe mais"
+
+[[params.three.feature]]
+icon = "fa-heart-o"
+title = "Animação"
+body = "Os que te obrigam a cantar e dançar às 8 da manhã de um domingo."
+href = "animacao"
+text = "Sabe mais"
+
+[[params.three.feature]]
+icon = "fa-flag-o"
+title = "Comunicação"
+body = "Os que te chateiam com spam de posts no insta."
+href = "comunicacao"
+text = "Sabe mais"
+
+[params.cta]
+enable = true
+title = "Do que é que estás à espera? Inscreve-te!"
+body = "Prepara a mochila e marca a data no calendário. Estamos à tua espera!"
+
+[[params.cta.link]]
+href = "/inscricao"
+text = "Inscrever"
+special = true
+
+[[params.cta.link]]
+href = "contactos"
+text = "contactos"
+special = false
+
+[params.contact]
+enable = false
+title = "Contact"
+body = "Leave us a message."
+phone = ""
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+email = "cenaculo.oriental@escutismo.pt"
+subject = "New Submission!"
+plain = false
+
+[params.social]
+twitter = ""
+facebook = "https://www.facebook.com/cenac.ncorlx"
+instagram = "https://www.instagram.com/cenaculo.ncorlx/"
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
