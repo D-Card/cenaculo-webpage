@@ -7,7 +7,10 @@ theme = "spectral"
 
 [params]
 fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXI Cenáculo NcOrLx'  # title for frontpage, may include image
-copyright = "XXI Cenáculo NcOrLx"
+copyright = "XXI Cenáculo NcOrLx •  dcard"
+source = "https://github.com/D-Card/cenaculo-webpage"
+author = "dcard"
+authorurl = "https://dcard.pt"
 description = '3, 4 e 5 de março de 2023. Estás preparado?!'
 startbuttonText = "Inscrições (Brevemente)"
 startbuttonLink = "#"
