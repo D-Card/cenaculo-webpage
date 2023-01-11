@@ -12,8 +12,8 @@ source = "https://github.com/D-Card/cenaculo-webpage"
 author = "dcard"
 authorurl = "https://dcard.pt"
 description = '3, 4 e 5 de março de 2023. Estás preparado?!'
-startbuttonText = "Inscrições (Brevemente)"
-startbuttonLink = "#"
+startbuttonText = "Inscrições"
+startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -23,12 +23,20 @@ url = '/'
 title = "Página Inicial"
 
 [[params.menu.main]]
-url = '/equipa/'
-title = "Equipa Projeto"
+url = 'informacoes-adicionais/horario'
+title = "Horário"
 
 [[params.menu.main]]
-url = '#'
-title = "Inscrição (Brevemente)"
+url = 'angariacoes-fundo'
+title = "Angariações de Fundo"
+
+[[params.menu.main]]
+url = 'informacoes-adicionais/venda-sweats'
+title = "Venda de Sweats"
+
+[[params.menu.main]]
+url = '/equipa/'
+title = "Equipa Projeto"
 
 [taxonomies]
     tag = "tags"
@@ -45,9 +53,10 @@ body = '''
 Bem-vindo/a ao XXI Ciclo de Cenáculo Oriental! Ao longo deste ciclo é uma vontade nossa ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
 **Envolve-te!**  
 O Cenáculo é uma ferramenta pedagógica que te é proporcionada todos os anos para que:
-1. Possas conhecer a realidade dos outros Clãs do Núcleo.
-2. Construas verdadeiras pontes nos teus trilhos, onde encontras um obstáculo intransponível.
-3. Vivas de todos os Caminheiros - Partilha a tua caminhada e Juntos Avancem nos Rumos do Homem Novo.
+
+⚜️ Possas conhecer a realidade dos outros Clãs do Núcleo.  
+⚜️ Construas verdadeiras pontes nos teus trilhos, onde encontras um obstáculo intransponível.  
+⚜️ Vivas de todos os Caminheiros - Partilha a tua caminhada e Juntos Avancem nos Rumos do Homem Novo.
 
 Recorre à Equipa Projeto sempre que precises, pois é de Caminheiros como Tu que ela se compõe. 
 
@@ -116,7 +125,7 @@ conhecer-te a ti!
 
 [[params.three.feature]]
 icon = "fa-paper-plane-o"
-title = "Coordenação"
+title = "Representantes"
 body = "André e Francisco"
 href = "coordenacao"
 text = "Descobre mais"
@@ -161,7 +170,7 @@ text = "Descobre mais"
 enable = true
 title = "Do que é que estás à espera? Inscreve-te!"
 body = "Prepara a mochila e marca a data no calendário. Estamos à tua espera!"
-href = "#"
+href = "https://forms.gle/PCM43gawCgQDEYA29"
 text = "Inscrever"
 special = true
 
