@@ -100,7 +100,7 @@ button = true
 
 [[params.two.section.link]]
 href = "informacoes-adicionais/local"
-text = "local e como chegar"
+text = "Local (Brevemente)"
 
 [[params.two.section.link]]
 href = "angariacoes-fundo"
