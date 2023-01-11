@@ -42,9 +42,20 @@ title = 'Olá Caminheiros!'
 href = "/equipa"
 text = "clica aqui!"
 body = '''
-[Mensagem dos coordenadores]
+Bem-vindo/a ao XXI Ciclo de Cenáculo Oriental! Ao longo deste ciclo é uma vontade nossa ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
+**Envolve-te!**  
+O Cenáculo é uma ferramenta pedagógica que te é proporcionada todos os anos para que:
+1. Possas conhecer a realidade dos outros Clãs do Núcleo.
+2. Construas verdadeiras pontes nos teus trilhos, onde encontras um obstáculo intransponível.
+3. Vivas de todos os Caminheiros - Partilha a tua caminhada e Juntos Avancem nos Rumos do Homem Novo.
 
-Canhotas EpYcas,
+Recorre à Equipa Projeto sempre que precises, pois é de Caminheiros como Tu que ela se compõe. 
+
+A nossa ambição não é que participes forçosamente no XXI Ciclo. A nossa ambição é que chegues ao fim do XXI mais disperto, mais concretizado, mais Envolvido!
+
+
+Canhotas EpYcas,  
+XXI Ciclo Cenáculo do Núcleo Oriental de Lisboa
 '''
 
 special = false
@@ -79,7 +90,7 @@ text = "Carta de Cenáculo (Brevemente)"
 
 [[params.two.section.link]]
 href = "oradores"
-text = "Oradores"
+text = "Oradores (Brevemente)"
 
 [[params.two.section]]
 img = "img/tiger.jpg"
@@ -88,8 +99,8 @@ body = 'Prepara-te para a viagem!'
 button = true
 
 [[params.two.section.link]]
-href = "pegadas"
-text = "Pegadas"
+href = "informacoes-adicionais/local"
+text = "local e como chegar"
 
 [[params.two.section.link]]
 href = "angariacoes-fundo"
@@ -106,45 +117,45 @@ conhecer-te a ti!
 [[params.three.feature]]
 icon = "fa-paper-plane-o"
 title = "Coordenação"
-body = "Os que mandam (e escolheram uma fantástica equipa de comunicação)."
+body = "André e Francisco"
 href = "coordenacao"
-text = "Sabe mais"
+text = "Descobre mais"
 
+
+[[params.three.feature]]
+icon = "fa-eye"
+title = "Observadores"
+body = "Ana e Nuno"
+href = "observadores"
+text = "Descobre mais"
+
+[[params.three.feature]]
+icon = "fa-star"
+title = "Fórum"
+body = "João e Maria"
+href = "forum"
+text = "Descobre mais"
+
+[[params.three.feature]]
+icon = "fa-gears"
+title = "Logística"
+body = "Lara e Leonor"
+href = "logistica"
+text = "Descobre mais"
+
+[[params.three.feature]]
+icon = "fa-microphone"
+title = "Animação"
+body = "Inês e Joana"
+href = "animacao"
+text = "Descobre mais"
 
 [[params.three.feature]]
 icon = "fa-laptop"
-title = "Observadores"
-body = "Os que confirmam que não é preciso chamar ambulâncias."
-href = "observadores"
-text = "Sabe mais"
-
-[[params.three.feature]]
-icon = "fa-code"
-title = "Fórum"
-body = "Os que decidem o que se discute."
-href = "forum"
-text = "Sabe mais"
-
-[[params.three.feature]]
-icon = "fa-headphones"
-title = "Logística"
-body = "Os que escolheram o sítio onde vais dormir."
-href = "logistica"
-text = "Sabe mais"
-
-[[params.three.feature]]
-icon = "fa-heart-o"
-title = "Animação"
-body = "Os que te obrigam a cantar e dançar às 8 da manhã de um domingo."
-href = "animacao"
-text = "Sabe mais"
-
-[[params.three.feature]]
-icon = "fa-flag-o"
 title = "Comunicação"
-body = "Os que te chateiam com spam de posts no insta."
+body = "Diogo e Jin"
 href = "comunicacao"
-text = "Sabe mais"
+text = "Descobre mais"
 
 [params.cta]
 enable = true
