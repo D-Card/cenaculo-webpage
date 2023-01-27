@@ -1,4 +1,5 @@
 +++
+weight = 1
 author = "Equipa Projeto"
 title = "Cinema - Encanto"
 description = "Cinema - Encanto"

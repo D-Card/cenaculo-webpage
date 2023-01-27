@@ -1,4 +1,5 @@
 +++
+weight = 50
 author = "Equipa Projeto"
 title = "Hino do Cenáculo"
 description = "Hino"
