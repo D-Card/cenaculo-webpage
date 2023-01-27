@@ -1,4 +1,5 @@
 +++
+weight = 1
 author = "Equipa Projeto"
 title = "Rifas XXI Ciclo"
 description = "Rifas XXI Ciclo"
@@ -16,4 +17,4 @@ Passo-a-passo de como participar:
 
 3. Receberás a(s) tua(s) rifa(s) no email indicado.
 
-4. Assiste ao sorteio no dia 4 de fevereiro (Café Concerto do Cenáculo!)
+4. Assiste ao sorteio no dia 4 de fevereiro (Café Concerto)!
