@@ -39,7 +39,7 @@ url = 'informacoes-adicionais/venda-sweats'
 title = "Venda de Sweats"
 
 [[params.menu.main]]
-url = '/equipa/'
+url = '/equipa-projeto/'
 title = "Equipa Projeto"
 
 [taxonomies]
@@ -51,7 +51,7 @@ title = "Equipa Projeto"
 [params.one]
 enable = true
 title = 'Olá Caminheiros!'
-href = "/equipa"
+href = "/equipa-projeto/"
 text = "clica aqui!"
 body = '''
 Bem-vindo/a ao XXI Ciclo de Cenáculo Oriental! Ao longo deste ciclo é nossa vontade ver-te mais envolvido/a em todo o caminho que a Equipa Projeto percorrerá e a dares voz às tuas vontades e ambições.  
@@ -131,44 +131,44 @@ conhecer-te a ti!
 icon = "fa-paper-plane-o"
 title = "Representantes"
 body = "André e Francisco"
-href = "coordenacao"
-text = "Descobre mais"
+href = "equipa-projeto/representantes"
+text = "Conhece-os"
 
 
 [[params.three.feature]]
 icon = "fa-eye"
 title = "Observadores"
 body = "Ana e Nuno"
-href = "observadores"
-text = "Descobre mais"
+href = "equipa-projeto/observadores"
+text = "Conhece-os"
 
 [[params.three.feature]]
 icon = "fa-star"
 title = "Fórum"
 body = "João e Maria"
-href = "forum"
-text = "Descobre mais"
+href = "equipa-projeto/forum"
+text = "Conhece-os"
 
 [[params.three.feature]]
 icon = "fa-gears"
 title = "Logística"
 body = "Lara e Leonor"
-href = "logistica"
-text = "Descobre mais"
+href = "equipa-projeto/logistica"
+text = "Conhece-as"
 
 [[params.three.feature]]
 icon = "fa-microphone"
 title = "Animação"
 body = "Inês e Joana"
-href = "animacao"
-text = "Descobre mais"
+href = "equipa-projeto/animacao"
+text = "Conhece-as"
 
 [[params.three.feature]]
 icon = "fa-laptop"
 title = "Comunicação"
 body = "Diogo e Jin"
-href = "comunicacao"
-text = "Descobre mais"
+href = "equipa-projeto/comunicacao"
+text = "Conhece-os"
 
 [params.cta]
 enable = true

@@ -1,7 +1,7 @@
 +++
 author = "Equipa Projeto"
-title = "Comunicação"
-description = "Comunicação"
+title = "Representantes"
+description = "Representantes"
 +++
 
 <!--more-->
