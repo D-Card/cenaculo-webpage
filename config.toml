@@ -28,7 +28,7 @@ title = "Horário"
 
 [[params.menu.main]]
 url = 'informacoes-adicionais/local'
-title = "Local e Como chegar"
+title = "Local"
 
 [[params.menu.main]]
 url = 'angariacoes-fundo'
@@ -114,7 +114,7 @@ button = true
 
 [[params.two.section.link]]
 href = "informacoes-adicionais/local"
-text = "Local (Brevemente)"
+text = "Local"
 
 [[params.two.section.link]]
 href = "angariacoes-fundo"

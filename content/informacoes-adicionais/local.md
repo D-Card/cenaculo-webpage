@@ -1,8 +1,7 @@
 +++
 weight = 20
 author = "Equipa Projeto"
-title = "Local e Como chegar"
-subtitle = "Em breve..."
+title = "Local"
 description = "Local"
 +++
 
@@ -13,3 +12,5 @@ Descobre aqui!
 
 Centro de Recursos da Ericeira, Fundação CEBI.  
 R. dos Castanheiros, 2655-405 Ericeira
+
+{{< google-maps >}}
