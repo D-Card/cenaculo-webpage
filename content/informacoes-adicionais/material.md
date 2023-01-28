@@ -26,6 +26,5 @@ Estás a fazer a mochila e tens a sensação que te falta algo? Vê aqui tudo o 
 
 - Tenda;
 - Círio de clã;
-- Objeto que identifique o clã;
 - Alguidar (identificado);
 - Ceia para partilhar.
