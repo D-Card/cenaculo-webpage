@@ -102,8 +102,9 @@ href = "#"
 text = "Carta de Cenáculo (Brevemente)"
 
 [[params.two.section.link]]
-href = "oradores"
-text = "Oradores (Brevemente)"
+href = "files/forum.pdf"
+text = "Fórum"
+newtab = true
 
 [[params.two.section]]
 img = "img/tiger.jpg"
