@@ -186,7 +186,7 @@ title = "Contacta-nos"
 body = "Ficaste com alguma dúvida? Envia-nos uma mensagem!"
 email = "cenaculo.oriental@escutismo.pt"
 subject = "Nova mensagem!"
-plain = false
+formspree_form_id = "xqkjlryg"
 
 [params.social]
 twitter = ""
