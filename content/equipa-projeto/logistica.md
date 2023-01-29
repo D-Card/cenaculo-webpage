@@ -14,8 +14,8 @@ Entrou nos escuteiros em 2007, e neste momento, para além de caminheira, faz pa
 ​  
 ​  
 ​  
-​  
 _“Para mim o Cenáculo é a partilha de ideais em busca do Homem Novo.”_
+​  
 ​
 ​
 ​  
@@ -30,7 +30,7 @@ Entrou nos escuteiros em 2010, e neste momento, para além de caminheira, faz pa
 ​  
 ​  
 ​  
-​  
 _"O cenáculo é onde conseguimos ter a oportunidade de nos desenvolvermos enquanto caminheiros e membros ativos da sociedade."_
+​  
 ​  
 ​

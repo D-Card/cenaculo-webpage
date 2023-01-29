@@ -8,13 +8,14 @@ description = "Fórum"
 <!--more-->
 
 {{< figure src="/img/team/maria.jpeg" height="300px" width="300px" class="wrap-left">}}
-​​
+​​​  
 Esta é a Maria.
 Entrou nos escuteiros em 2008, e neste momento, para além de caminheira, faz parte da Equipa Projeto do XXI Ciclo. Gosta de acampar e de viajar.  
-​​  
-_"Espero que com este ciclo possa terminar a minha caminhada deixando a minha marca!”_
+​​​  
 ​  
 ​
+_"Espero que com este ciclo possa terminar a minha caminhada deixando a minha marca!”_
+​  
 ​
 
 ---

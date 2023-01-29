@@ -28,7 +28,7 @@ Entrou nos escuteiros em 2007, e neste momento, para além de caminheira, faz pa
 
 ​  
 ​  
-​  
 _“Para cima mais alto é a direção e não há melhor bússola que o coração.”_
+​  
 ​  
 ​

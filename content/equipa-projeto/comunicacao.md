@@ -8,14 +8,7 @@ description = "Comunicação"
 <!--more-->
 
 {{< figure src="/img/team/diogo.jpeg" height="300px" width="300px" class="wrap-left">}}
-
-​  
-​ ​
-​ ​
-​ ​
-​ ​
-​
-​  
+​​  
 Este é o Diogo.
 Entrou nos escuteiros em 2009, e neste momento, para além de caminheiro/a, faz parte da Equipa Projeto do XXI Ciclo. Gosta de viajar e é fanático por _First-Person Shooters_.  
 ​  
@@ -35,8 +28,6 @@ _"Impele a tua própria canoa."_
 _**O Jin é uma pessoa muito misteriosa, aguarda enquanto os nossos melhores investigadores tentam descobrir mais sobre ele.**_
 ​  
 ​  
-​  
-​​  
 ​  
 ​  
 ​  

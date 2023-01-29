@@ -31,7 +31,7 @@ Entrou nos escuteiros em 2012 e neste momento, para além de caminheiro/a, faz p
 ​  
 ​  
 ​
-
 _“Não há ensino que se compare ao exemplo.”_
+
 ​  
 ​
