@@ -4,6 +4,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
+googleAnalytics = "G-G847G6KWGL"
 
 [params]
 fancyTitle = '<img srcset="/img/logo.png 484w, /img/logo_sm.png 242w" sizes="(max-width: 600px) 242px, 484px"> <br/> XXI Cenáculo NcOrLx'  # title for frontpage, may include image
@@ -17,7 +18,6 @@ startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
-googleAnalytics = "G-G847G6KWGL"
 
 [[params.menu.main]]
 url = '/'
