@@ -13,7 +13,7 @@ Esta é a Ana.
 Entrou nos escuteiros em 1986, e neste momento, para além de Dirigente, é observadora do XXI Ciclo. Gosta de teatro e de fazer os outros felizes.
 
 ​
-_"O melhor meio para alcançar a felicidade é contribuir para a felicidade dos outros"_
+_"O melhor meio para alcançar a felicidade é contribuir para a felicidade dos outros."_
 ​  
 ​  
 ​
