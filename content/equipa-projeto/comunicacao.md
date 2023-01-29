@@ -10,7 +10,7 @@ description = "Comunicação"
 {{< figure src="/img/team/diogo.jpeg" height="300px" width="300px" class="wrap-left">}}
 ​​  
 Este é o Diogo.
-Entrou nos escuteiros em 2009, e neste momento, para além de caminheiro/a, faz parte da Equipa Projeto do XXI Ciclo. Gosta de viajar e é fanático por _First-Person Shooters_.  
+Entrou nos escuteiros em 2009, e neste momento, para além de caminheiro, faz parte da Equipa Projeto do XXI Ciclo. Gosta de viajar e é fanático por _First-Person Shooters_.  
 ​  
 ​  
 ​  

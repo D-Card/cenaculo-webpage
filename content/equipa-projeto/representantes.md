@@ -26,7 +26,7 @@ _“Bastou ter fé e acreditar.”_
 {{< figure src="/img/team/francisco.jpeg" height="300px" width="300px" class="wrap-right" >}}
 ​  
 Este é o Francisco Gouveia.
-Entrou nos escuteiros em 2012 e neste momento, para além de caminheiro/a, faz parte da Equipa Projeto do XXI Ciclo. Gosta de Jiu-jitsu e de andar de mota.
+Entrou nos escuteiros em 2012 e neste momento, para além de caminheiro, faz parte da Equipa Projeto do XXI Ciclo. Gosta de Jiu-jitsu e de andar de mota.
 ​  
 ​  
 ​  

@@ -9,7 +9,7 @@ description = "Animação"
 
 {{< figure src="/img/team/cae.jpeg" height="300px" width="300px" class="wrap-left">}}
 ​​  
-Este é a Cae.
+Esta é a Cae.
 Entrou nos escuteiros em 2014, e neste momento, para além de caminheira, faz parte da Equipa Projeto do XXI Ciclo. Gosta de criar e de roubar uma ou duas gargalhadas.
 ​  
 ​  
