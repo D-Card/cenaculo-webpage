@@ -12,19 +12,26 @@ Estás a fazer a mochila e tens a sensação que te falta algo? Vê aqui tudo o 
 
 ### Lista de material
 
-**Cada caminheiro deve levar:**
+**Cada Caminheiro deve levar:**
 
+- Mochila pequena;
 - Saco-cama e esteira;
 - Agasalho;
 - Bolsa de higiene;
 - Tupperware;
 - Calçado confortável;
-- Prato, talheres e copo;
-- Uniforme completo.
+- Prato, copo e talheres;
+- Cantil;
+- Caderno de caça e caneta;
+- Luvas de trabalho;
+- Ceia para partilhar;
+- Uniforme completo;
+- Instrumentos musicais.
 
 **Cada clã deve levar:**
 
 - Tenda;
 - Círio de clã;
 - Alguidar (identificado);
-- Ceia para partilhar.
+- Estandarte do Agrupamento;
+- Fotos físicas do clã.
