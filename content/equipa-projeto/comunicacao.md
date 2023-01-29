@@ -14,8 +14,8 @@ Entrou nos escuteiros em 2009, e neste momento, para além de caminheiro/a, faz 
 ​  
 ​  
 ​  
-_"Impele a tua própria canoa."_
-​
+_"Quando se navega sem destino, nenhum vento é favorável."_
+​  
 ​
 
 ---
