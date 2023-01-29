@@ -1,16 +1,43 @@
 +++
 author = "Equipa Projeto"
 title = "Comunicação"
+subtitle = "Conhece o Diogo e o Jin!"
 description = "Comunicação"
 +++
 
 <!--more-->
 
-{{< figure src="/img/team/diogocardoso.jpg" height="100px" width="150px" class="wrap-left">}}
+{{< figure src="/img/team/diogo.jpeg" height="300px" width="300px" class="wrap-left">}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+​  
+​ ​
+​ ​
+​ ​
+​ ​
+​
+​  
+Este é o Diogo.
+Entrou nos escuteiros em 2009, e neste momento, para além de caminheiro/a, faz parte da Equipa Projeto do XXI Ciclo. Gosta de viajar e é fanático por _First-Person Shooters_.  
+​  
+​  
+​  
+_"Impele a tua própria canoa."_
+​
+​
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{{< figure src="/img/team/jin.jpg" class="align-right" >}}
+{{< figure src="/img/team/jin.jpeg" height="300px" width="300px" class="wrap-right" >}}
+​
+
+# 🚧 🚧 🚧 🚧
+
+_**O Jin é uma pessoa muito misteriosa, aguarda enquanto os nossos melhores investigadores tentam descobrir mais sobre ele.**_
+​  
+​  
+​  
+​​  
+​  
+​  
+​  
+​
