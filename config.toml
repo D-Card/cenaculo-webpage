@@ -17,6 +17,7 @@ startbuttonLink = "https://forms.gle/PCM43gawCgQDEYA29"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
+googleAnalytics = "G-G847G6KWGL"
 
 [[params.menu.main]]
 url = '/'
