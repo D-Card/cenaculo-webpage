@@ -1,4 +1,4 @@
 +++
 title = "Fórum"
-subtitle = "Brevemente..."
+subtitle = "As coisas importantes..."
 +++
