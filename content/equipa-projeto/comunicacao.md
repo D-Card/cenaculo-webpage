@@ -21,13 +21,12 @@ _"Quando se navega sem destino, nenhum vento é favorável."_
 ---
 
 {{< figure src="/img/team/jin.jpeg" height="300px" width="300px" class="wrap-right" >}}
+
+Este é o Jin.
+Entrou nos escuteiros em 2017, e neste momento, para além de caminheiro, faz parte da Equipa Projeto do XXI Ciclo. Gosta de estar com amigos e de fazer uma boa aventura com eles.  
 ​
 
-# 🚧 🚧 🚧 🚧
-
-_**O Jin é uma pessoa muito misteriosa, aguarda enquanto os nossos melhores investigadores tentam descobrir mais sobre ele.**_
-​  
-​  
+_"Espero que este Ciclo seja divertido, e acredito que vá ser uma grande atividade. seijão us irois"_
 ​  
 ​  
 ​  
