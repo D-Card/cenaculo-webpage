@@ -1,5 +1,6 @@
 +++
 author = "Equipa Projeto"
+weight = 10
 title = "Temas de Fórum"
 description = "Temas de Fórum"
 +++
