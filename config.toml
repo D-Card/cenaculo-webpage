@@ -24,7 +24,7 @@ url = '/'
 title = "Página Inicial"
 
 [[params.menu.main]]
-url = 'informacoes-adicionais/horario'
+url = '/img/horario.png'
 title = "Horário"
 
 [[params.menu.main]]
