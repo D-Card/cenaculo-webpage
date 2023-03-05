@@ -99,8 +99,8 @@ body = 'Aqui podes aprender e descobrir novos poderes.'
 button = true
 
 [[params.two.section.link]]
-href = "#"
-text = "Carta de Cenáculo (Brevemente)"
+href = "forum/carta-cenaculo"
+text = "Carta de Cenáculo"
 
 [[params.two.section.link]]
 href = "forum"
