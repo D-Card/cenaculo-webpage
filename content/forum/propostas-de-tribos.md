@@ -11,7 +11,7 @@ Lê as propostas atentamente e prepara-te para a votação...
 
 ## Tribos Isabela e Julieta
 
-Propomo-nos a assumir a representação de todos os clãs do Núcleo Oriental em Conselhos de Núcleo, assegurando a participação do máximo número de caminheiros possível nestes mesmos conselhos.
+Propomo-nos a assumir a representação de todos os clãs do Núcleo Oriental em conselhos de núcleo, assegurando a participação do máximo número de caminheiros possível nestes mesmos conselhos.
 
 ---
 
@@ -23,7 +23,7 @@ Propomo-nos a criar uma atividade com o objetivo de recuperação e manutenção
 
 ## Tribo Luísa
 
-Propomo-nos a criar e dinamizar uma plataforma de partilha informal de clã de Núcleo. [^2]
+Propomo-nos a criar e dinamizar uma plataforma de partilha informal de clã de núcleo. [^2]
 
 ---
 
@@ -47,7 +47,7 @@ Propomos a revisão periódica do regulamento geral no sentido de introduzir tem
 
 ## Tribo Bruno
 
-Propomo-nos a criar materiais de apoio para a formação de Noviços e Aspirantes a caminheiros, sobre a vivência da IV. [^6]
+Propomo-nos a criar materiais de apoio para a formação de Noviços e Aspirantes a Caminheiros, sobre a vivência da IV. [^6]
 
 ---
 
@@ -62,18 +62,18 @@ Propomos a permissão da utilização de saia por todos os Escuteiros, enquanto 
 Propomo-nos a criar uma equipa de jovens conselheiros de núcleo.
 
 [^1]:
-    Cuidar para Ter - Investir no desenvolvimento, recuperação e manutenção dos campos do CNE, AEP ou outros. Para a reabilitação do espaço promover-se-á atividades de serviço para caminheiros, para que seja um espaço agradável para todas as secções e todos os movimentos.
-    Inicialmente serão utilizadas as atividades de referência já existentes (S. Paulo) e, correndo bem, é criada uma atividade própria.
+    Cuidar para Ter - Investir no desenvolvimento, recuperação e manutenção dos campos do CNE, AEP e outros. Para a reabilitação do espaço promover-se-ão atividades de serviço para caminheiros, para que seja um espaço agradável para todas as secções e todos os movimentos.
+    Inicialmente serão utilizadas as atividades de referência já existentes (S. Paulo ao Rubro) e, correndo bem, é criada uma atividade própria.
     Existir pelo menos 1 reunião trimestral de guias do núcleo para desenvolvimento e acompanhamento do plano anual da IV.
 
 [^2]:
-    Criar e dinamizar uma plataforma de partilha de ideias, acontecimentos, experiências, reflexões, atividades e/ou dúvidas, com todos os caminheiros do núcleo, com o objetivo de fomentar a partilha, a aproximação, e a interação entre a quarta secção do núcleo.
+    Criar e dinamizar uma plataforma de partilha de ideias, acontecimentos, experiências, reflexões, atividades e/ou dúvidas, com todos os Caminheiros do núcleo, com o objetivo de fomentar a partilha, a aproximação, e a interação entre a quarta secção do núcleo.
     A escolha da plataforma será feita na próxima reunião de Guias do Núcleo. A atualização seria da responsabilidade dos guias de núcleo, efetuada anualmente.
 
-[^3]: A plataforma apresentaria informação sobre o tipo de atividade, inscrições, datas e outras detalhes como link de inscrição. Deste modo, promovemos uma maior presença dos caminheiros nas atividades.
-[^4]: In IV, que se realiza no início do ano escutista e é organizada por uma equipa de caminheiros acompanhados por um observador. O objetivo é ser uma atividade de referência da secção e que proporcione uma melhor integração dos noviços e crescente trabalho de união entre o clã do núcleo. Os noviços devem trabalhar alguns temas das provas das promessas, caminheiros investidos aprofundam a sua vivência do caminheirismo e os caminheiros em último ano de atividade .omeçariam a preparar o fim do seu percurso da secção. A atividade deve ser organizada por Caminheiros, com auxílio de um Observador – que seja Dirigente do Núcleo Oriental, e que tenha idealmente uma grande representatividade dos diferentes Agrupamentos.
-[^5]: Esta equipa deve ser constituída por membros do Conselho Nacional, a equipa Nacional de Jovens Conselheiros, 1 caminheiro por região e 1 dirigente por região.
+[^3]: A plataforma apresentaria informação sobre o tipo de atividade, inscrições, datas e outras detalhes como link de inscrição. Deste modo, promovemos uma maior presença dos Caminheiros nas atividades.
+[^4]: In IV, que se realiza no início do ano escutista e é organizada por uma equipa de Caminheiros acompanhados por um Observador. O objetivo é ser uma atividade de referência da secção e que proporcione uma melhor integração dos Noviços e crescente trabalho de união entre o clã do núcleo. Os Noviços devem trabalhar alguns temas das provas das promessas, Caminheiros investidos aprofundam a sua vivência do caminheirismo e os Caminheiros em último ano de atividade começariam a preparar o fim do seu percurso da secção. A aqtividade deve ser organizada por uma equipa de Caminheiros, com auxílio de um Observador – que seja Dirigente do Núcleo Oriental, e que tenha idealmente uma grande representatividade dos diferentes Agrupamentos.
+[^5]: Esta equipa deve ser constituída por membros do Conselho Nacional, a equipa Nacional de Jovens Conselheiros, 1 Caminheiro por região e 1 Dirigente por região.
 [^6]:
-    Criação de uma equipa de caminheiros com um representante de cada clã do núcleo para a elaboração destes materiais.
-    A equipa deve fazer um levantamento com os caminheiros do núcleo sobre como abordam as diferentes temáticas, de forma a criar um baú de oportunidades para estas atividades
+    Criação de uma equipa de Caminheiros com um representante de cada clã do núcleo para a elaboração destes materiais.
+    A equipa deve fazer um levantamento com os caminheiros do núcleo sobre como abordam as diferentes temáticas, de forma a criar um baú de oportunidades para estas atividades.
     Disponibilizar todas estas informação nos respetivos materiais de formação.
