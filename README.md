@@ -1,6 +1,6 @@
 # cenaculo-webpage
 
-[Website](https://cenaculoncorlx.pt) for the XXI Rovers' Assembly of Lisbon's "Núcleo Oriental"
+[Website](https://cenaculo.oriental.escutismo.pt) for the XXI Rovers' Assembly of Lisbon's "Núcleo Oriental"
 
 If you want to build it locally:
 
